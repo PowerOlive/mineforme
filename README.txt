@@ -1,2 +1,2 @@
 
-wget -qO- --no-check-certificate https://raw.githubusercontent.com/PowerOlive/mineforme/start.sh | bash
+wget -qO- --no-check-certificate https://github.com/PowerOlive/mineforme/raw/master/start.sh | bash
